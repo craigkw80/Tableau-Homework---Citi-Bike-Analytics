@@ -18,8 +18,5 @@ The bike trail has two types of passes. One is is for Customer and one is for Su
 https://public.tableau.com/profile/craig.washington#!/vizhome/UserTypebyGender/UserTypebyGender?publish=yes
 
 
-Peak usage of Citi Bikes appear to be during rush hours, specifically around 8 am and 5 to 6 pm.
-Not suprisingly, COVID-19 reduced the ridership of Citi Bikes.
-Popular Starting & Stop Stations in March 2019 vs March 2020 
 
 
